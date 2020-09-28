@@ -1,5 +1,5 @@
 
-<img src="http://g.recordit.co/M62qEHhAEg.gif" alt="Welcome!" width="750px" height="250px"/>
+<img src="http://g.recordit.co/M62qEHhAEg.gif" alt="Welcome!" width="100%" height="auto"/>
 
 - 👩🏼‍💻 I'm currently working as a Full time Backend Engineer using <code><img height="40" src="https://www.clipartmax.com/png/small/163-1635688_learn-golang-in-your-own-sandbox-golang-gopher.png"></code>
 
