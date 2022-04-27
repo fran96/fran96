@@ -7,7 +7,7 @@
 
 - 💻 My Tech stack includes: 
 <code><img height="20" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png"></code>
-<code><img height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
+<code><img height="30" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFZspODjlYFi6OyL6ovNRz-hSbKr-tjI14Zw&usqp=CAU"></code>
 
