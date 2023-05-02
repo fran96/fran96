@@ -3,7 +3,7 @@
 
 - 👩🏼‍💻 I'm currently working as a Full time Backend Engineer using <code><img height="40" src="https://www.clipartmax.com/png/small/163-1635688_learn-golang-in-your-own-sandbox-golang-gopher.png"></code>
 
-- 🌍 Based in Berlin 🇩🇪, originally from Malta 🇲🇹
+- 🌍 Based in Amsterdam 🇳🇱, originally from Malta 🇲🇹
 
 - 💻 My Tech stack includes: 
 <code><img height="20" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png"></code>
